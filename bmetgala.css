@@ -1,0 +1,105 @@
+.bmetgala {
+width: 420px;
+margin: 0 auto; 
+border: 1px solid var(--border1-c); 
+background: var(--dbckg2);border-radius: 10px;
+}
+.bmetgala-2 {
+background: var(--cuerpo-border); 
+margin: 15px; border: 1px solid var(--border1-c); 
+border-radius: 10px;
+} 
+.bmetgala-3 {
+display: flex; align-items: center; 
+padding-top: 50px;
+} 
+.bmetgala-4 {
+margin: auto; 
+width: 90%; font-family:'Jost', sans-serif; 
+font-weight:700; 
+letter-spacing: 10px; 
+font-size: 18px; 
+line-height: 17px; 
+text-shadow: #ddd; 
+text-transform: uppercase; 
+color: var(--text);
+text-align:center;
+} 
+.bmetgala-5 { 
+padding: 10px 40px; 
+padding-bottom: 0px; 
+text-align:justify; 
+color: var(--text);
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+}
+.bmetgala-4 span {
+font-family: 'Source Serif 4', serif; 
+font-size: 8px; 
+text-transform: uppercase; 
+letter-spacing: 2px; 
+font-weight: 500; 
+background-image: linear-gradient(45deg, #bb2222, #ffb722ba);
+background-size: 120%; 
+background-position: center; 
+outline: 1px solid var(--scroll); 
+text-shadow: var(--shadow-d);
+color: var(--title-img);
+padding: 0px 2px;
+} 
+.bmetgala-4 > i {
+font-size: 70px; 
+color: transparent;
+border-radius: 10px;
+-webkit-text-stroke-color: var(--group);
+-webkit-text-stroke-width: 2px; 
+position: absolute; 
+opacity: 0.2; 
+margin-left: -40px;
+margin-top: -25px;
+}
+.bmetgalabx {
+width: 250px; 
+margin: 20px auto; 
+font: 400 12px 'Open Sans'; 
+line-height: 1.4em;
+}
+.bmetgalabx b {
+font: 900 10px 'Poppins';
+text-transform: uppercase; 
+color: #aaa; 
+text-decoration: 2px underline #dd6b4b; 
+letter-spacing: 1px; 
+text-shadow: 1px 1px var(--background-3),-1px 1px var(--background-3),1px -1px var(--background-3),-1px -1px var(--background-3);
+} 
+.bmetgala-5 b {
+font: 900 10px 'Poppins'; 
+text-transform: uppercase; color: #a36a54;
+letter-spacing: 1px; 
+text-shadow: 1px 1px var(--background-3),-1px 1px var(--background-3),1px -1px var(--background-3),-1px -1px var(--background-3);
+}
+.bmetgalabx i { 
+color: #a36a54;
+}
+.bmetgalacj {
+background: #0c0c0c; 
+width: 220px; 
+height: 60px;
+margin: 0 auto; 
+padding: 20px; 
+border-radius: 10px;
+}
+.bmetg-tt {
+padding: 3px; 
+color: #727171; 
+font-size: 10.5px; 
+line-height: 13px; 
+text-transform: lowercase; 
+font-family: 'Open Sans', sans-serif; text-align: justify;
+}
+.signature_div:before { 
+content: '';
+display: block; 
+height: 1px; 
+margin-top: -332px;
+}
