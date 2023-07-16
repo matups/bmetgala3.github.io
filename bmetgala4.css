@@ -1,0 +1,45 @@
+.pr1-titulo > i { 
+font-size: 70px; 
+color: transparent; 
+border-radius: 10px; 
+-webkit-text-stroke-color: var(--group); 
+-webkit-text-stroke-width: 2px; 
+position: absolute; 
+opacity: 0.2; 
+margin-left: -40px; 
+margin-top: -25px;
+} 
+.bmetgalabx { 
+width: 250px; 
+margin: 20px auto;
+font: 400 12px 'Open Sans';
+line-height: 1.4em; 
+} 
+.bmetg-tt {
+padding: 3px; 
+color: #727171; 
+font-size: 10.5px; 
+line-height: 13px; 
+text-transform: lowercase; 
+font-family: 'Open Sans', sans-serif; 
+text-align: justify;
+} 
+.lee-tt { 
+font: 400 13px 'Open Sans'; 
+line-height: 1.4em; 
+} 
+.bmetgalabx b { 
+text-transform: uppercase; 
+color: #aaa; 
+text-decoration: 2px underline #dd6b4b; 
+letter-spacing: 1px; 
+text-shadow: 1px 1px var(--background-3),-1px 1px var(--background-3),1px -1px var(--background-3),-1px -1px var(--background-3); 
+font: 900 10px 'Poppins';
+} 
+.pr1-cont b {
+font: 900 10px 'Poppins'; 
+text-transform: uppercase; 
+color: #a36a54; 
+letter-spacing: 1px; 
+text-shadow: 1px 1px var(--background-3),-1px 1px var(--background-3),1px -1px var(--background-3),-1px -1px var(--background-3);
+} 
